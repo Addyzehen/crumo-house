@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://addyzehen.github.io/crumo-house/sitemap.xml
